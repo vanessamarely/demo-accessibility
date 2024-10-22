@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: #333;
+    background: #79a55a;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -72,7 +72,7 @@ nav ul li a {
 }
 
 button {
-    background: #333;
+    background: #79a55a;
     color: #fff;
     border: none;
     padding: 0.5rem 1rem;
@@ -116,7 +116,7 @@ form button {
         display: none;
         flex-direction: column;
         gap: 0;
-        background: #333;
+        background: #79a55a;
         position: absolute;
         top: 100%;
         left: 0;
